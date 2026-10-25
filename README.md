@@ -1,7 +1,6 @@
 # Spotify Day-of-Week Classifier
 
-**Contributors:** Alexander Dao and Jack Rudy
-
+**Contributors:** Alexander Dao
 **Started:** July 1, 2026
 
 This project investigates whether a classifier can predict the day of the week on which a person listened to a song, using only their Spotify listening behavior.
